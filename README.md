@@ -1,10 +1,15 @@
 ## Hi there 👋🏼 I'm Jokeraware
 (or Joker, or Joke because i'm funny 🙄) 
 
-- 🔭 I’m currently working on a personal project (a static RPG)
+- ⌨️ I’m currently working on a personal project (a static RPG)
 - 🧠 I’m currently learning <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="svelte" width="15" height="15"/></a> ,
   <a href="https://rubyonrails.org](https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/></a>
+
+  ### About me
+- From a barista at Starbucks ☕ to a dev fullstack junior 👩🏻‍💻
+- Always with a little black cat on my lap 🐈‍⬛
+- 90's baby
 
 #### Languages and Tools
 <p>
